@@ -25,3 +25,7 @@ file system.
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+### Copyright
+
+2018 Git.Training by Randy Shaver
