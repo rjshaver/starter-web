@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Randy Shaver	rshaver@git.training	@awesomers
 
 # THANKS
 
