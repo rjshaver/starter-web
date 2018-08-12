@@ -33,4 +33,4 @@ review.
 
 ### Copyright
 
-2018 Git.Training by Randy Shaver
+2018 Git.Training by Randy Shaver.  All Rights Reserved.
